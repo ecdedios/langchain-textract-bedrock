@@ -22,6 +22,12 @@ Written in Python 3.9.9. Some technologies used:
 
 To see the project in action, open and run the notebooks.
 
+## References
+
+https://aws.amazon.com/blogs/machine-learning/intelligent-document-processing-with-amazon-textract-amazon-bedrock-and-langchain/
+
+https://python.langchain.com/docs/integrations/document_loaders/amazon_textract
+
 ## Meta
 
 Ednalyn C. De Dios – [@ecdedios](https://github.com/ecdedios)
