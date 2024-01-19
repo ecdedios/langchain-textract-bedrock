@@ -1,19 +1,23 @@
-# Long and Dscriptive Project Title
+# How to Use Amazon Textract, Amazon Bedrock, and LangChain to Process Documents
 
-> Mention the purpose of this project repo in one line.
+> Natural language processing on steroids.
 
 ## Project Description
 
 Mention the purpose and description of the project here including major technologies that were used in the repo.
 
-https://www.kaggle.com/competitions/sentiment-analysis-on-movie-reviews/data?select=test.tsv.zip
+## Data
+
+https://wordpress.org/about/privacy/
 
 ## Usage
 
 Written in Python 3.9.9. Some technologies used:
 
 - Jupyter Notebook
-- OpenAI
+- Amazon Textract
+- S3
+- Amazon Bedrock
 - LangChain
 
 To see the project in action, open and run the notebooks.
@@ -30,7 +34,7 @@ Distributed under the MIT license. See `LICENSE` for more information.
 
 ## Contributing
 
-1. Fork it (<https://github.com/ecdedios/repotitle/fork>)
+1. Fork it (<https://github.com/ecdedios/langchain-textract-bedrock/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
