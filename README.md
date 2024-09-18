@@ -4,7 +4,7 @@
 
 ## Project Description
 
-Mention the purpose and description of the project here including major technologies that were used in the repo.
+Intelligent document processing system.
 
 ## Data
 
